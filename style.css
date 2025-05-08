@@ -1,0 +1,108 @@
+* img{
+	min-width: 299px;
+	max-width: 300px;
+}
+#Home {
+	background-color: #efe8ff;
+}
+#Mattea h1{
+	color: #3df3b4;
+	text-shadow: 2px 2px #24926c;
+	text-align: center;
+}
+#Mattea p{
+	color: #24926c;
+	text-align: center;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+#Mattea {
+	background-color: #ffc3d8;
+}
+#Evan h1{
+	color: #ffb0cc;
+	text-shadow: 2px 2px #e7e186;
+	text-align: center;
+}
+#Evan p{
+	color: #d47496;
+	text-align: center;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+#Evan {
+	background-color: #fff5f8;
+}
+#Malcom h1{
+	color: #ff4283;
+	text-shadow: 2px 2px #f390a3;
+	text-align: center;
+}
+#Malcom p{
+	color: #f390a3;
+	text-align: center;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+#Malcom {
+	background-color: #ffeef1;
+}
+
+#And h1{
+	color: #f1769f;
+	text-shadow: 2px 2px #f7f6dc;
+	text-align: center;
+}
+#And p{
+	color: #f7f6dc;
+	text-align: center;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+#And {
+	background-color: #21191b;
+}
+#Dino h1{
+	color: #f7f6dc;
+	text-shadow: 2px 2px #6ac34f;
+	text-align: center;
+}
+#Dino p{
+	color: #6ac34f;
+	text-align: center;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+#Dino {
+	background-color: #b5f28e;
+}
+
+#Frog h1{
+	color: #feabdd;
+	text-shadow: 2px 2px #f7f6dc;
+	text-align: center;
+}
+#Frog p{
+	color: #f08dc8;
+	text-align: center;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+#Frog {
+	background-color: #bcf580;
+}
+
+#Bee h1{
+	color: #444244;
+	text-shadow: 2px 2px #feabdd;
+	text-align: center;
+}
+#Bee p{
+	color: #444244;
+	text-align: center;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+#Bee {
+	background-color: #fffb99;
+}
