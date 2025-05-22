@@ -103,6 +103,52 @@
 	margin-left: 75px;
 	margin-right: 75px;
 }
+
 #Bee {
 	background-color: #fffb99;
+}
+
+#Fry h1{
+	color: #ff0000;
+	text-shadow: 2px 2px #e9af3d;
+	text-align: center;
+}
+#Fry p{
+	color: #e9af3d;
+	text-align: center;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+#Fry {
+	background-color: #fff299;
+}
+
+#Ice h1{
+	color: #17e7d0;
+	text-shadow: 2px 2px #bc8d60;
+	text-align: center;
+}
+#Ice p{
+	color: #bc8d60;
+	text-align: center;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+#Ice {
+	background-color: #6b422e;
+}
+
+#Axo h1{
+	color: #ffdaee;
+	text-shadow: 2px 2px #68d8d0;
+	text-align: center;
+}
+#Axo p{
+	color: #79e1da;
+	text-align: center;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+#Axo {
+	background-color: #292929;
 }
